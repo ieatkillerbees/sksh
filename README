@@ -1,0 +1,5 @@
+This is a quick-and-dirty URL shortener.
+
+Things to bear in mind:
+* To respect the time box for this project, I sacrificed a great deal of performance.
+* The front-end is very quick and very dirty
